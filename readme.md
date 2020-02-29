@@ -3,3 +3,4 @@
 ## Heading 2
     Html is Markup while it is Markdown language.
     git status compares the file from the one in the server.
+    git commit -m "Meaningful message."

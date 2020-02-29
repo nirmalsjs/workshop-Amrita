@@ -1,0 +1,6 @@
+Go to github.
+Make a repository
+Click on + icon on the top right corner --> New repository --> fill the details
+
+
+There is a limit of 1000 history but it can be configured.
