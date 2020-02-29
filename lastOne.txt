@@ -1,1 +1,2 @@
 changes made here
+Staging area is the directory which is being tracked.
